@@ -10,5 +10,5 @@ Inform basketball betting strategy through non-traditional means. The deliverabl
 
 1) In game betting data were scraped from Bovada (a major bettng website)
 2) These data were analyzed and modeled with basic ML techniques and logistic regression to predict chance of bets being covered at different desired ROI levels
-3) AN interactive webite was designed which scraped the NBA games played on that day and outputted a chance of covering one's bet at different the user's inputted ROI
-4) in game data is analyzed by the software and a text is sent to the user when they have a chance to cover their bet during the game
+3) An interactive webite was designed which scraped the NBA games played on that day and outputted a chance of covering one's bet at different the user's inputted ROI
+4) In-game data is analyzed by the software and a text is sent to the user when they have a chance to cover their bet during the game
